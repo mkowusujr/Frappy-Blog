@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Rejection
-date:   2022-02-04 20:20:00 -0400
+date: 2022-02-04 20:20:00 -0400
 permalink: /poems/rejection
+tags: poems
 ---
 
 Rejection

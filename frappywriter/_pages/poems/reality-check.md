@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Reality Check
-date:   2022-02-04 20:20:00 -0400
+date: 2022-02-04 20:20:00 -0400
 permalink: /poems/reality-check
+tags: poems
 ---
 
 Reality Check

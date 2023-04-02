@@ -1,21 +1,12 @@
 ---
 ---
 
-* {
-	padding: 0;
-	margin: 0;
-}
-
-body {
-	background-color: $bottom;
-	min-height: 100vh;
-}
-
-p {
-	line-height: 1.5;
+nav {
+	margin-bottom: auto;
 }
 
 .content {
+	flex: 1 1;
 	display:block;
 	margin: auto;
 	padding: 2em;
@@ -23,5 +14,9 @@ p {
 
 	background-color: $middle;
 	min-height: 40vh;
-	max-width: 600px;
+	width: 600px;
+}
+
+footer {
+	margin-top: auto;
 }

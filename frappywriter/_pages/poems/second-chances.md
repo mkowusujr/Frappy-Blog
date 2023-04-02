@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Second Chances
-date:   2023-03-28 15:48:41 -0400
+date: 2023-03-28 15:48:41 -0400
 permalink: /poems/second-chances
+tags: poems
 ---
 
 Second Chance

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Soul Mates
-date:   2023-03-28 15:48:41 -0400
+date: 2023-03-28 15:48:41 -0400
 permalink: /poems/soul-mates
+tags: poems
 ---
 Soul Mates
 

@@ -1,8 +1,9 @@
 ﻿---
 layout: page
 title: The Chase
-date:   2023-03-28 15:48:41 -0400
-permalink: /short/the-chase
+date: 2023-03-28 15:48:41 -0400
+permalink: /shorts/the-chase
+tags: shorts
 ---
 
 The Chase

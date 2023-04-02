@@ -3,6 +3,7 @@ layout: page
 title: The Caged Bird
 date:   2023-03-27 15:48:41 -0400
 permalink: /plays/the-caged-bird
+tags: plays
 ---
 
 The Caged Bird

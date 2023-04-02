@@ -2,12 +2,16 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>frappy Writer</title>
+  <title>
+    {% if page.title %}{{ page.title }} | frappy writer{% else %}{{ site.title }}{% endif %}
+  </title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 </head>
 <body>
+  {% include nav.html %}
   <section class="content">
     {{ content }}
   </section>
+  {% include footer.html %}
 </body>
 </html>
