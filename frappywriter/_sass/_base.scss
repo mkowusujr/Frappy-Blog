@@ -1,22 +1,64 @@
----
----
-
 nav {
-	margin-bottom: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: baseline;
+  margin-bottom: auto;
+  background-color: $nav;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 0.5em;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+  margin-left: 7em;
+  align-items: start;
 }
 
 .content {
-	flex: 1 1;
-	display:block;
-	margin: auto;
-	padding: 2em;
-	border-radius: 0.5em;
+  flex: 1 1;
+  display: block;
+  padding: 3em;
+  padding-top: 1em;
+  border-radius: 0.5em;
 
-	background-color: $middle;
-	min-height: 40vh;
-	width: 600px;
+  background-color: $page;
+  min-height: 40vh;
+  max-width: 600px;
+}
+
+.bio {
+  @extend .content;
+  max-width: 300px;
+  margin-right: 8em;
+}
+
+.tags-section {
+  @extend .bio;
+  margin-top: 2em;
+  min-height: fit-content;
+
+  .tag {
+    background-color: $tag;
+    padding: 0.5em;
+    display: block;
+    border-radius: 0.5em;
+    width: fit-content;
+    align-items: center;
+    &:hover {
+      background-color: $hover-tag;
+      a {
+        color: $hover-text;
+      }
+    }
+  }
 }
 
 footer {
-	margin-top: auto;
+  margin-top: auto;
+  display: block;
+  padding: 2em;
 }

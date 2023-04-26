@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <title>
@@ -7,11 +8,20 @@
   </title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 </head>
+
 <body>
   {% include nav.html %}
-  <section class="content">
-    {{ content }}
-  </section>
+  <div class="main-content">
+    <section class="content">
+      {{ content }}
+    </section>
+    <aside>
+      {% include bio.html %}
+      {% include tags.html %}
+    </aside>
+  </div>
+
   {% include footer.html %}
 </body>
+
 </html>

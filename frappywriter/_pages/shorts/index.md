@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: short"
+title: "Tag: shorts"
 tag: shorts
 permalink: /shorts
 ---

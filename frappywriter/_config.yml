@@ -12,7 +12,7 @@
 title: frappy writer
 email: your-email@example.com
 description: >- 
-My name is Mathew. I like to write for fun. I hope you enjoy the things that come out of my mind :)
+  My name is Mathew. I like to write for fun. I hope you enjoy the things that come out of my mind :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

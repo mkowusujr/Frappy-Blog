@@ -1,0 +1,31 @@
+h1, h2 {
+	line-height: 3;
+}
+
+p, li {
+	line-height: 1.5;
+}
+
+
+p {
+	margin-bottom: 1em;
+}
+li {
+	margin-left: 2em;
+	text-indent: 1em;
+}
+
+
+h1,h2, a, p, li {
+	color: $text;
+}
+
+::selection {
+  background: $highlight;
+  border-radius: 0.5em;
+  color: $highlight-text;
+}
+
+a:hover {
+	color: $hover-text;
+}
