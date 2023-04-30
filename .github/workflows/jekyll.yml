@@ -57,7 +57,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
         with:
-          name: My Pages Site
+          name: my-site
           path: frappywriter/_site
 
   # Deployment job
@@ -71,3 +71,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact-name: my-site
