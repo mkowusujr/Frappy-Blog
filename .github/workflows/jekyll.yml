@@ -43,6 +43,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install dependencies
+        working-directory: ./frappywriter
         run: |
           gem install bundler
           bundle install
