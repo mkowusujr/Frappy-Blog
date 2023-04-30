@@ -1,17 +1,24 @@
 .main-content {
   margin: 4em;
-  margin-top: 5em;
+  margin-top: 5.5em;
 }
 // Styles for screens bigger than 830px
 @media screen and (min-width: 830px) {
-  /* Your SASS styles here */
   .main-content {
-  margin: 4em;
-  margin-top: 5em;
-  margin-left: auto;
-  margin-right: auto;
-  width: 800px;
-}
+    margin: 4em;
+    margin-top: 9em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+  }
+  nav {
+    top: 0;
+    bottom: auto !important;
+  }
+  header {
+    top: 3em !important;
+    background-color: #3f4d48 !important
+  }
 }
 
 footer {
@@ -123,7 +130,8 @@ form {
   width: 100%;
   margin-top: 4em;
 
-  input, textarea {
+  input,
+  textarea {
     margin-top: 1em;
     margin-bottom: 1em;
     padding: 1em;

@@ -4,10 +4,11 @@ title: humility - a collection of poems
 date:   2023-03-28 15:48:41 -0400
 permalink: /poems/collections/humility
 collection_name: humility
+tags: collections
 ---
 
 # My Experience: Writing, Revisioning, and what was Frustrating
-I found writing these poems to be creatively and emotionally draining. I kept going back and forth between loving the work I wrote down to absolutely hating it. I knew that I wanted the overall theme of this collection to be humility, and the original drafts definitely stuck along with that goal. But as I kept coming back to each poem and reading it over aI would notice its imperfections in clear detail. Seeing each imperfection would upset me and lead me to try to fix it. I often made things worse and deviated from my original purpose.
+I found writing these poems to be creatively and emotionally draining. I kept going back and forth between loving the work I wrote down to absolutely hating it. I knew that I wanted the overall theme of this collection to be humility, and the original drafts definitely stuck along with that goal. But as I kept coming back to each poem and reading it over I would notice its imperfections in clear detail. Seeing each imperfection would upset me and lead me to try to fix it. I often made things worse and deviated from my original purpose.
 Writing poetry started to feel very some to falling in superficial “love” with someone. In the beginning, you’re infatuated with them and they can do no wrong in your eyes. But as you get to know them and see them for who they really are you realize that you can’t stand the sight of them. I know it's harsh! But I really came to hate and be dissatisfied with my work because it was as getting and the image I had in my head! 
 
 I had a hard time leaving room for my reader to think. I wanted them to see things my way. I wanted to get my point across. Learning to hold back from giving the point away was hard. When I read poems myself I hate it when I don’t get it, so as a writer, I don’t want my reader to feel the same way. As a result, there is always a Tension in my writing between, holding back and giving it all away.
