@@ -1,21 +1,48 @@
-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  align-items: baseline;
-  margin-bottom: auto;
-  background-color: $nav;
-  padding: 1em;
-  margin: 1em;
-  border-radius: 0.5em;
+.main-content {
+  margin: 4em;
+  margin-top: 5em;
+}
+// Styles for screens bigger than 830px
+@media screen and (min-width: 830px) {
+  /* Your SASS styles here */
+  .main-content {
+  margin: 4em;
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
 }
 
-.main-content {
+footer {
+  margin: 2em;
+  margin-top: 0;
+}
+
+nav {
+  padding-top: 1em;
+  padding-bottom: 1em;
   display: flex;
-  justify-content: space-between;
-  margin-top: 1em;
-  margin-left: 7em;
-  align-items: start;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: $nav;
+  justify-content: space-around;
+  align-items: baseline;
+  transition: transform 0.3s ease-out;
+  transform: translateY(0);
+}
+
+.nav-hidden {
+  transform: translateY(100%);
+}
+
+/* Hide scroll bar on mobile */
+body {
+  -webkit-overflow-scrolling: touch; /* enables momentum scrolling in webkit */
+  overflow-y: scroll; /* enables vertical scrolling */
+  scrollbar-width: none; /* hide scrollbar for Firefox */
+  -ms-overflow-style: none; /* hide scrollbar for IE 10+ */
 }
 
 .content {
@@ -27,20 +54,17 @@ nav {
 
   background-color: $page;
   min-height: 40vh;
-  max-width: 600px;
 }
 
 .bio {
   @extend .content;
-  max-width: 300px;
-  margin-right: 8em;
 }
 
 .tags-section {
   @extend .bio;
-  margin-top: 2em;
+  margin-top: 8em;
   min-height: fit-content;
-
+  margin-bottom: 1em;
   .tag {
     background-color: $tag;
     padding: 0.5em;
@@ -57,8 +81,55 @@ nav {
   }
 }
 
-footer {
-  margin-top: auto;
+header {
   display: block;
-  padding: 2em;
+  padding: 0.5em;
+
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em;
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: $nav;
+  text-align: center;
+  p {
+    line-height: normal;
+    margin: 0;
+  }
+}
+
+.list {
+  margin-bottom: 4em;
+  li {
+    line-height: 2.5;
+  }
+}
+
+.date {
+  font-style: italic;
+  color: $hover-text;
+}
+
+hr {
+  margin-top: 6em;
+  margin-bottom: 2em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 4em;
+
+  input, textarea {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+  }
+
+  textarea {
+    min-height: 12em;
+  }
 }

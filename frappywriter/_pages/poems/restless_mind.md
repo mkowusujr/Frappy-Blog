@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Restless Mind
-date: 2023-03-28 15:48:41 -0400
+date: 2023-03-27 15:48:41 -0400
 permalink: /poems/restless-mind
 tags: poems
 ---
-Restless Mind  
-On March 27, 2023 - By Mathew Owusu Jr  
 
 Sometimes I wonder if you think about me too,  
 You always cross my mind in the quiet of the night.  

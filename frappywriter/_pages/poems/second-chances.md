@@ -6,8 +6,6 @@ permalink: /poems/second-chances
 tags: poems
 ---
 
-Second Chance
-
 Shame and rejection where my only friends  
 Humiliation was the only clothing I wore around   
 Once, I slept in the same houses as princes,   princesses, and kings

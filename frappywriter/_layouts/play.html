@@ -1,0 +1,13 @@
+---
+layout: page
+---
+<link rel="stylesheet" href="{{ '/assets/css/fountain-js.css' | relative_url }}" />
+<section id="play-section"></section>
+
+<script type="text/javascript" src="{{ '/assets/js/fountain.min.js' | relative_url }}"></script>
+<script type="text/javascript">
+  script = `{{page.script}}`;
+  var htmlString = fountain.parse(script).html.script;
+  var playSection = document.getElementById("play-section");
+  playSection.innerHTML = htmlString;
+</script>

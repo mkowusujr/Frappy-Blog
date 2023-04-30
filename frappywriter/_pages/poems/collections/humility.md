@@ -1,8 +1,9 @@
 ---
-layout: page
-title: humility
+layout: collection
+title: humility - a collection of poems
 date:   2023-03-28 15:48:41 -0400
 permalink: /poems/collections/humility
+collection_name: humility
 ---
 
 # My Experience: Writing, Revisioning, and what was Frustrating

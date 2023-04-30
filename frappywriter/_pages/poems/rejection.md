@@ -4,9 +4,8 @@ title: Rejection
 date: 2022-02-04 20:20:00 -0400
 permalink: /poems/rejection
 tags: poems
+poem_collection: Intro to Galanthus
 ---
-
-Rejection
 
 I always felt like I didn't fit in  
 This became all more clear when my brothers finally   had their way

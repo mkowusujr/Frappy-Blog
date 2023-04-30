@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: poems"
+title: "Poems"
 tag: poems
 permalink: /poems
 ---

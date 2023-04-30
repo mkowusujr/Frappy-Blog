@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{{ content }}
+<h2>Pieces in this Collection</h2>
+<div class="list">
+	<ul>
+		{% assign sortedPages = site.pages | sort: 'date' | reverse %}
+		{% for p in sortedPages %}
+		{% if p.poem_collection contains page.collection_name %}
+		<li><a href="{{ p.url }}">{{ p.title }} (<span class="date">{{ p.date | date_to_string
+					}}</span>)</a>
+		</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</div>

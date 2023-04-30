@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-<div class="post">
-	<h1>Tag: {{ page.tag }}</h1>
+<div class="list">
 	<ul>	
 		{% assign sortedPages = site.pages | sort: 'date' | reverse %}
 		{% for p in sortedPages %}
 		{% if p.tags contains page.tag %}
-		<li><a href="{{ p.url }}">{{ p.title }}</a> ({{ p.date | date_to_string }})<br>
+		<li><a href="{{ p.url }}">{{ p.title }} (<span class="date">{{ p.date | date_to_string }}</span>)</a><br>
 			{{ post.description }}
 		</li>
 		{% endif %}

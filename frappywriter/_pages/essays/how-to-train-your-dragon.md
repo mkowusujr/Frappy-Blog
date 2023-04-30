@@ -6,7 +6,6 @@ permalink: /essays/h-t-m-t-g-a-m-e
 tags: essays
 ---
 
-
 # How to Make the Greatest Animated Movie Ever
 # The Summary
 When it comes to producing emotionally engaging character-driven animated movies, Disney’s Pixar has the crown. They have consistently cunned out great films over the years, however, in my eyes, none of their films rivals the story told in Dreamworks’ 2010 hit How to Train a Dragon. How to Train you Dragon is a coming of age tale of an outcast Viking teen named Hiccup who struggles to find acceptance from his father and his village. He doesn’t match the description of your typical Viking build: biceps the size of boulders, shoulders as broad as mountains, and a face as hairy as a Wolly Mammoth. He is as thin as a toothpick with arms even thinner. Looking at him you feel more sorry for him than you do intimidate by him. He is from the village Berek, which has a huge pest problem, rampant village fire-breathing dragons terrorize the inhabitants nonstop! Killing a dragon is a right of passage on this island. But when faced with the opportunity of a lifetime to kill a dragon and win the praise and approval of his father and village, Hiccup can’t do it. He sees himself in the dragon, misunderstood. He then goes on to get to know and befriend the member of the species that his village hates and would kill on site. Hiccup’s story is a beautiful one told with the aid of an amazing score and impressive visuals.

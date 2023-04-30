@@ -4,18 +4,16 @@ title: Reality Check
 date: 2022-02-04 20:20:00 -0400
 permalink: /poems/reality-check
 tags: poems
+poem_collection: humility
 ---
 
-Reality Check
-By Mathew Owusu Jr  
-  
 I am in the wilderness  
 My will and happiness drying up  
 A worm languishing in the hot arid sun  
 My strength depleting, all alone  
   
-I am on fire  
-A the star in the night sky  
+I am on fire,  
+A star in the night sky  
 Radiant, glistening, sustaining men with my greatness  
 I can do no wrong  
   

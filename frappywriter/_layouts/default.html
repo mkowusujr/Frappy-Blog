@@ -7,17 +7,20 @@
     {% if page.title %}{{ page.title }} | frappy writer{% else %}{{ site.title }}{% endif %}
   </title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  <script type="text/javascript" src="{{ '/assets/js/scroll.js' | relative_url }}"></script>
+  <link rel="alternate" type="application/json" title="JSON Feed" href="play/feed.json" />
 </head>
 
 <body>
   {% include nav.html %}
+  <header>
+    <p>{{ page.title }} {% if page.date %}<span class="date"> - {{page.date | date: "%b %-d, %Y"}}</span>{% endif %}</p>
+  </header>
   <div class="main-content">
-    <section class="content">
-      {{ content }}
-    </section>
+    {{ content }}
     <aside>
-      {% include bio.html %}
       {% include tags.html %}
+      {% include bio.html %}
     </aside>
   </div>
 

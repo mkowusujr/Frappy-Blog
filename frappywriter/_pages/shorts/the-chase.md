@@ -6,12 +6,6 @@ permalink: /shorts/the-chase
 tags: shorts
 ---
 
-The Chase
-
-By Mathew Owusu
-
-
-
 Andrea had finally managed to escape the office with her parcel, and hid, breathing hard, behind a dumpster in an alley, and listened as her pursuers ran past, shouting orders at each other. She could barely breath from running so hard, and she was sure they could hear her gasping for air, or even her heartbeat thudding in her own ears. But no, they ran past, and Andrea was safe... for the next couple of seconds, at least.
 
 She glanced down at the small item in her hands. *This is it? This is what all this is for?* Carl was going to be thrilled. She, on the other hand, was furious. She'd practically gotten herself killed, still *might* get herself killed... and for *what*? It was so senseless.

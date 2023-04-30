@@ -1,5 +1,10 @@
+h1, h2, h3, h4, p, li, a {
+	font-size: large;
+}
+
 h1, h2 {
-	line-height: 3;
+	line-height: 1.5;
+	margin-bottom: 1em;
 }
 
 p, li {
@@ -16,8 +21,11 @@ li {
 }
 
 
-h1,h2, a, p, li {
+h1,h2, h3, a, p, li {
 	color: $text;
+}
+h4 {
+	color: $sp-text;
 }
 
 ::selection {
