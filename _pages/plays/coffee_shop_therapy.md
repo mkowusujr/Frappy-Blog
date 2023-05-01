@@ -2,7 +2,7 @@
 layout: play
 title: Coffee Shop Therapy
 date:   2023-04-04 00:33:00 -0400
-permalink: /plays/coffee-shop-therapy
+permalink: /Frappy-Blog/plays/coffee-shop-therapy
 tags: plays
 script: |
     *RICKY walks into a coffee shop at night. There are bags under his eyes. ISABEL is wiping down the register counter, she also has bags under her eyes. The inside of the coffee shop is decorated with warm white walls with dated posters hung up. The floor is decorated with yellow and brown tiles. ISABEL is dressed in a black and gray uniform with her hair tied up in a knot. RICKY is dressed in a fancy brown trench coat, white gloves, and a nice brown hat.*

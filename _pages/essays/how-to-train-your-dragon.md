@@ -2,7 +2,7 @@
 layout: page
 title: How to Make the Greatest Animated Movie Ever
 date:   2022-02-20 23:44:00 -0400
-permalink: /essays/h-t-m-t-g-a-m-e
+permalink: /Frappy-Blog/essays/h-t-m-t-g-a-m-e
 tags: essays
 ---
 

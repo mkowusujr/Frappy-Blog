@@ -2,5 +2,5 @@
 layout: tagpage
 title: "Shorts"
 tag: shorts
-permalink: /shorts
+permalink: /Frappy-Blog/shorts
 ---

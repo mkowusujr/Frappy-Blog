@@ -2,7 +2,7 @@
 layout: page
 title: Restless Mind
 date: 2023-03-27 15:48:41 -0400
-permalink: /poems/restless-mind
+permalink: /Frappy-Blog/poems/restless-mind
 tags: poems
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: It's All We Got
 date: 2019-09-04 18:18:00 -0400
-permalink: /shorts/its-all-we-got
+permalink: /Frappy-Blog/shorts/its-all-we-got
 tags: shorts
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Second Chances
 date: 2023-03-28 15:48:41 -0400
-permalink: /poems/second-chances
+permalink: /Frappy-Blog/poems/second-chances
 tags: poems
 ---
 

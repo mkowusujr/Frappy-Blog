@@ -2,7 +2,7 @@
 layout: play
 title: The Caged Bird
 date:   2023-03-27 15:48:41 -0400
-permalink: /plays/the-caged-bird
+permalink: /Frappy-Blog/plays/the-caged-bird
 tags: plays
 script: |
     *CHARLOTTE walks into her bedroom. Claudia is standing over the shattered pieces of CHARLOTTE's violin. In CLAUDIA's right hand is the snapped neck of Charlotte's violin. There is a guilty expression on CLAUDIA's face.*

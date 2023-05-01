@@ -2,7 +2,7 @@
 layout: page
 title: Take My Food Too!
 date: 2019-09-04 18:18:00 -0400
-permalink: /shorts/take-my-food-too
+permalink: /Frappy-Blog/shorts/take-my-food-too
 tags: shorts
 ---
 

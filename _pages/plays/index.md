@@ -2,5 +2,5 @@
 layout: tagpage
 title: "Plays"
 tag: plays
-permalink: /plays
+permalink: /Frappy-Blog/plays
 ---

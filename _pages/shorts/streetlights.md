@@ -2,7 +2,7 @@
 layout: page
 title: Street Lights
 date: 2019-09-04 18:18:00 -0400
-permalink: /shorts/streetlights
+permalink: /Frappy-Blog/shorts/streetlights
 tags: shorts
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: The Jittery Fax Machine
 date: 2023-03-28 15:48:41 -0400
-permalink: /shorts/the-jittery-fax-machine
+permalink: /Frappy-Blog/shorts/the-jittery-fax-machine
 tags: shorts
 ---
 

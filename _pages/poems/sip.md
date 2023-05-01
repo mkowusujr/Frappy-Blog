@@ -2,7 +2,7 @@
 layout: page
 title: Sip
 date: 2019-09-04 18:18:00 -0400
-permalink: /poems/sip
+permalink: /Frappy-Blog/poems/sip
 tags: poems
 ---
 

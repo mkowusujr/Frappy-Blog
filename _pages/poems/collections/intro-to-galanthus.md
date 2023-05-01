@@ -2,7 +2,7 @@
 layout: page
 title: Intro to Galanthus
 date:   2022-02-06 23:19:00 -0400
-permalink: /poems/collections/intro-to-galanthus
+permalink: /Frappy-Blog/poems/collections/intro-to-galanthus
 tags: collections
 ---
 

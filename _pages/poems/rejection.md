@@ -2,7 +2,7 @@
 layout: page
 title: Rejection
 date: 2022-02-04 20:20:00 -0400
-permalink: /poems/rejection
+permalink: /Frappy-Blog/poems/rejection
 tags: poems
 poem_collection: Intro to Galanthus
 ---

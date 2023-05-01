@@ -2,7 +2,7 @@
 layout: collection
 title: humility - a collection of poems
 date:   2023-03-28 15:48:41 -0400
-permalink: /poems/collections/humility
+permalink: /Frappy-Blog/poems/collections/humility
 collection_name: humility
 tags: collections
 ---

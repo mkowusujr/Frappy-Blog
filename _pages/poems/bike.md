@@ -2,7 +2,7 @@
 layout: page
 title: Mommy, Daddy Look! I Can Ride a Bike
 date:   2022-02-04 18:27:00 -0400
-permalink: /poems/i-can-ride-a-bike
+permalink: /Frappy-Blog/poems/i-can-ride-a-bike
 tags: poems
 poem_collection: humility
 ---
