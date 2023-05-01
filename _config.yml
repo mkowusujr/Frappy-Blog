@@ -13,8 +13,8 @@ title: frappy writer
 email: your-email@example.com
 description: >- 
   My name is Mathew. I like to write for fun. I hope you enjoy the things that come out of my mind :)
-baseurl: "Frappy-Blog/" # the subpath of your site, e.g. /blog
-url: "https://mkowusujr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Frappy-Blog" # the subpath of your site, e.g. /blog
+url: "https://mkowusujr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
   
