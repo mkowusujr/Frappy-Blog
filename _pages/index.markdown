@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /Frappy-Blog/
+permalink: /
 title: Home
 ---
 
