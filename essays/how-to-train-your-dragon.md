@@ -3,7 +3,7 @@ layout: page
 title: How to Make the Greatest Animated Movie Ever
 date:   2022-02-20 23:44:00 -0400
 tags: essays
-permalink: /Frappy-Blog/essays/dragons
+permalink: essays/dragons
 ---
 
 # How to Make the Greatest Animated Movie Ever
